@@ -90,6 +90,8 @@ Several plots are generated to visually represent the data and relationships:
 
 This notebook successfully scrapes the IMDB Top 50 movies, preprocesses the data, and performs an initial EDA. The analysis highlights the strong inverse relationship between rank and rating, confirms the absence of rating outliers within the top 50, and identifies a significant issue with missing 'Year' data that would need further investigation or refinement of the scraping logic to enable time-based analysis.
 
-python code link:  
+python code link:
+
+https://github.com/Abbas786-Ali/Data_Scrap_and_Analysis_project/blob/main/Analysis_data.py.ipynb
 
 
